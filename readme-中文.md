@@ -2,7 +2,7 @@
 
 ### 变化：
 
-    1，解决中文乱码问题  
+    1，解决导出pdf中文乱码问题  
     2，调整仓库路径，使用中国国内源，加快制作镜像速度  
     
     
@@ -10,6 +10,8 @@
     docker-compose build  
     docker-compose up -d  
     
+已知问题：
+    貌似导出pdf，没有标签！！！
     
 ### 参考文档：https://gitee.com/dreamidea/bookstack-docker-compose
 
