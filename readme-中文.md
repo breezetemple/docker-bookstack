@@ -14,3 +14,11 @@
 ### 参考文档：https://gitee.com/dreamidea/bookstack-docker-compose
 
 
+### 致谢
+   感谢以下网址涉及的所有相关团队和个人，感谢开源！
+   
+   https://www.bookstackapp.com/ 
+   https://www.linuxserver.io/
+   https://gitee.com/dreamidea/bookstack-docker-compose
+
+
